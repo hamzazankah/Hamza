@@ -1,7 +1,7 @@
 # Hamza
 # AI Project: Spam Email Classifier
 
-## Summary
+## Summar
 
 This project aims to develop an AI model to classify emails as "Spam" or "Not Spam" using machine learning. It uses a dataset of 1000 email messages, with a focus on optimizing classification accuracy for imbalanced data sets where the number of legitimate emails vastly exceeds the number of spam emails.
 
